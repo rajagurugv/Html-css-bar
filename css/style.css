@@ -25,3 +25,27 @@
 	display:flex;
 	
 }
+.primary_bar{
+	background-color:green;
+	height:50px;
+	width:25%;
+	
+}
+.secondary_bar{
+	background-color:#48dbfb;
+	height:22px;
+	width:50%;
+	
+}
+.success_bar{
+	background-color:#feca57;
+	height:22px;
+	width:75%;
+	
+}
+.danger_bar{
+	background-color:#c23616;
+	height:22px;
+	width:100%;
+	
+}
