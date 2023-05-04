@@ -1,11 +1,12 @@
 
-}
+
 .main_container{
 	display:flex;
 	justify-content:center
 	
 }
 .sec_container{
+	margin:35px;
 	width:80%;
 	height:150px;
 	border: 1px solid black;
@@ -23,6 +24,7 @@
 	border-radius:5px;
 	margin:10px;
 	display:flex;
+	overflow:hidden;
 	
 }
 .primary_bar{
